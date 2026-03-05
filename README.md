@@ -1,5 +1,13 @@
 # Crash-Out-Dummy
 
+## Controls
+
+### Keyboard and Mouse
+- WASD = Movement
+- Mouse = Camera
+- Space = Jump
+- E = Slide
+
 ## Debug Shortcuts
 - N = Next Level
 - T = Reset to Level 1
