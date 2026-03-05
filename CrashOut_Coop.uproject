@@ -11,5 +11,11 @@
 				"Editor"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Windows",
+		"Mac",
+		"LinuxArm64",
+		"Linux"
 	]
 }
