@@ -4,6 +4,7 @@
 
 ### Keyboard and Mouse
 - WASD = Movement
+- Shift = Sprint
 - Mouse = Camera
 - Space = Jump
 - E = Slide
