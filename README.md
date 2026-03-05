@@ -1,5 +1,11 @@
 # Crash-Out-Dummy
 
+## Debug Shortcuts
+- N = Next Level
+- T = Reset to Level 1
+- F = Super Speed
+- R = Initiate Self Kill
+
 ## Coding Practice
 - Unreal Engine 5.5.4
 - No spaces in folder and file names
