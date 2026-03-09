@@ -14,6 +14,7 @@
 - T = Reset to Level 1
 - F = Super Speed
 - R = Initiate Self Kill
+- C = Clear Dead Bodies
 
 ## Coding Practice
 - Unreal Engine 5.5.4
