@@ -7,7 +7,7 @@
 - Shift = Sprint
 - Mouse = Camera
 - Space = Jump
-- E = Slide
+- E = Slide/Interact
 
 ## Debug Shortcuts
 - N = Next Level
