@@ -3,18 +3,20 @@
 ## Controls
 
 ### Keyboard and Mouse
-- WASD = Movement
-- Shift = Sprint
-- Mouse = Camera
-- Space = Jump
-- E = Slide/Interact
+- WASD     = Movement
+- Shift    = Sprint
+- Mouse    = Camera
+- Space    = Jump
+- C        = Slide/Interact
+- TAB      = View Control Scheme
 
 ## Debug Shortcuts
 - N = Next Level
 - T = Reset to Level 1
 - F = Super Speed
 - R = Initiate Self Kill
-- C = Clear Dead Bodies
+- M = Clear Dead Bodies
+- / = Reset Tutorial
 
 ## Coding Practice
 - Unreal Engine 5.5.4
