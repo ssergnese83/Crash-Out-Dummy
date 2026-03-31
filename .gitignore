@@ -12,12 +12,3 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-
-# Wwise
-.backup*
-.cache*
-*.akd
-*.prof
-*.validationcache
-*.wsettings
-IncrementalSoundBankData.xml
